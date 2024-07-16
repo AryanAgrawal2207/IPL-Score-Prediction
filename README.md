@@ -1,5 +1,6 @@
-IPL Score Prediction predicts live IPL match scores using Machine Learning.\n
-Built with Python leveraging Flask for UI, scikit-learn (sklearn) for machine learning tasks, and NumPy for Data Handling.
+-IPL Score Prediction predicts live IPL match scores using Machine Learning.
+
+-Built with Python leveraging Flask for UI, scikit-learn (sklearn) for machine learning tasks, and NumPy for Data Handling.
 
 
 
